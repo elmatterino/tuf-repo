@@ -1,0 +1,19 @@
+{
+ "signatures": [
+  {
+   "keyid": "2ad575af48e07fc6f61600f981be2d73637df4b8158e0203fb7d75747acda945",
+   "sig": "2955c51ba6093d7a9e10d016816d908e933c4bdf3a783fade6aaf5c1344d313107b9c63bdadcb34680ff5c0a7d8495a19ded895b73458c688d1c31ad44fc71dea7f76ba2fe8ef09a954c0e0e102bfae743cee247ae0d34cc971557b2b080901f41ce8f4be5b419796e78061c391c7e82a1ee15dc7015a49fc60bce6464808e4091dc312718b8109c6771ac2fb1ea96637b9ee9bc4490b198c80414ba08ac06c98516294c1a4cdef9e4eeb20d4920fa77f13f8ce0bd06d7c19af20ab59c9dce9710718f2f2c489155e1cb7938bd89a28cf176f8374dfca6287ce3d099924727b943529392705d6750deabb0008e1bbe871ea02944e8caeadf0c1e5f868f4e1604"
+  }
+ ],
+ "signed": {
+  "_type": "timestamp",
+  "expires": "2026-09-12T20:51:44Z",
+  "meta": {
+   "snapshot.json": {
+    "version": 1
+   }
+  },
+  "spec_version": "1.0.31",
+  "version": 1
+ }
+}
