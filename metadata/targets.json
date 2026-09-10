@@ -2,15 +2,22 @@
  "signatures": [
   {
    "keyid": "49253803a7666aa5a6939e43b64bb6a6c393081d7c56415649450621acdff952",
-   "sig": "3045022100dec6d7a577d27aeac64d52a9e2da8f8b771a372287e537f53ad9874daa2a0f0c02201a533e01e833bb81a2415ffaf59aaf3dd8aee5b8c24d809c1ac398b937534267"
+   "sig": ""
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-09-10T18:08:21Z",
+  "expires": "2027-09-10T21:37:01Z",
   "spec_version": "1.0.31",
-  "targets": {},
-  "version": 1,
+  "targets": {
+   "C2PA-TRUST-LIST.pem": {
+    "hashes": {
+     "sha256": "19d9fa09359cff2c904d7976d8c5de831efd8464c3fd82be2ae57cb4f97a7bf7"
+    },
+    "length": 23384
+   }
+  },
+  "version": 2,
   "x-tuf-on-ci-expiry-period": 365,
   "x-tuf-on-ci-signing-period": 60
  }
